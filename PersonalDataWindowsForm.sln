@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalDataWindowsForm", "PersonalDataWindowsForm\PersonalDataWindowsForm.csproj", "{106278C6-FBFB-4B65-BFFF-89B6EBE32E16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{106278C6-FBFB-4B65-BFFF-89B6EBE32E16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{106278C6-FBFB-4B65-BFFF-89B6EBE32E16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{106278C6-FBFB-4B65-BFFF-89B6EBE32E16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{106278C6-FBFB-4B65-BFFF-89B6EBE32E16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {166164A8-04FC-402D-9E4E-B6914DB1F374}
+	EndGlobalSection
+EndGlobal
